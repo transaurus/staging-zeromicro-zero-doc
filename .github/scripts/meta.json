@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/zeromicro/zero-doc",
+  "branch": "main",
+  "docusaurusRoot": "website",
+  "configFile": "website/docusaurus.config.js",
+  "translateCommand": "npx docusaurus write-translations",
+  "buildCommand": "npx docusaurus build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
