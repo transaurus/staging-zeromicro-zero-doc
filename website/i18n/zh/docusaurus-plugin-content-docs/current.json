@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.简介": {
+    "message": "简介",
+    "description": "The label for category 简介 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.快速开始": {
+    "message": "快速开始",
+    "description": "The label for category 快速开始 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.构建工具": {
+    "message": "构建工具",
+    "description": "The label for category 构建工具 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.框架组件": {
+    "message": "框架组件",
+    "description": "The label for category 框架组件 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.其他组件": {
+    "message": "其他组件",
+    "description": "The label for category 其他组件 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.项目开发": {
+    "message": "项目开发",
+    "description": "The label for category 项目开发 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.框架生态": {
+    "message": "框架生态",
+    "description": "The label for category 框架生态 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.扩展阅读": {
+    "message": "扩展阅读",
+    "description": "The label for category 扩展阅读 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.问题汇总": {
+    "message": "问题汇总",
+    "description": "The label for category 问题汇总 in sidebar tutorialSidebar"
+  }
+}
