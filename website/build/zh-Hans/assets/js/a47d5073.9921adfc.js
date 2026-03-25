@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[7922],{8723:function(s){s.exports=JSON.parse('{"allTagsPath":"/zh-Hans/blog/tags","slug":"/zh-Hans/blog/tags/go-zero","name":"go-zero","count":1,"permalink":"/zh-Hans/blog/tags/go-zero"}')}}]);

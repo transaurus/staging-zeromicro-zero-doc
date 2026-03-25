@@ -10,7 +10,7 @@ const config = {
   tagline: '缩短从需求到上线的距离',
   url: 'https://zeromicro.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/go-zero.svg',
   organizationName: 'zeromicro', // Usually your GitHub org/user name.
@@ -119,7 +119,7 @@ const config = {
     }),
     i18n: {
       defaultLocale: 'zh',
-      locales: ['zh', 'en'],
+      locales: ["en", "zh-Hans"],
       localeConfigs: {
         zh: {
           label: '中文',
